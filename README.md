@@ -1,7 +1,4 @@
 # pyResources
-Everything about learning python language
-
-# pyResources
 
 #### Python101 at ACTGenomics by cgh2
 <https://cgh2.github.io/python101/>
